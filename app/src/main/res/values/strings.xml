@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaTheme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="use_system_theming">Use System Theming</string>
+</resources>
